@@ -1,0 +1,99 @@
+#header{
+    background: #FF9CEE;
+    height: 100px;
+}
+
+#home img {
+    height: 370px;
+}
+
+#paquetes img{
+    height: 250px;
+  
+}
+
+
+
+
+#cards{
+    background:radial-gradient(#ff9CEE, black) ;
+}
+
+#cards h4{
+color:  deeppink
+}
+
+#cards p{
+    color:  deeppink;
+}
+
+#cards a{
+    color:  deeppink;
+}
+
+
+
+@media only screen and (max-width: 667px) {
+
+    #let{
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 428px) {
+    #let{
+        display: none;
+    }
+    
+}
+
+
+@media only screen and (max-width: 414px) {
+
+    #let{
+        display: none;
+    }
+
+} 
+
+
+@media only screen and (max-width: 384px) {
+
+    #let{
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 375px) {
+
+    #let{
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 320px) {
+
+    #let{
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 280px) {
+    #let{
+        display: none;
+    }
+   
+}
+
+@media only screen and (max-width: 240px) {
+
+    #let{
+        display: none;
+    }
+}
+
+
